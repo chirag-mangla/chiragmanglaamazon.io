@@ -1,0 +1,2 @@
+# chiragmanglaamazon.io
+Amazon clone
